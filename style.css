@@ -11,13 +11,13 @@ body {
 }
 
 .welcome-container {
-  background: #ffffff;
+  background: #0d6efd;
   border-radius: 20px;
   padding: 2rem;
   box-shadow: 0 10px 40px rgba(0, 0, 0, 0.15);
   max-width: 450px;
   width: 100%;
-  border: 2px solid #0d6efd;
+  border: 2px solid #ffffff;
   transition: transform 0.4s ease, box-shadow 0.4s ease;
 }
 
